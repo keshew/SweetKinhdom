@@ -1,10 +1,3 @@
-//
-//  SweetKinhdomUITestsLaunchTests.swift
-//  SweetKinhdomUITests
-//
-//  Created by Артём Коротков on 25.12.2025.
-//
-
 import XCTest
 
 final class SweetKinhdomUITestsLaunchTests: XCTestCase {

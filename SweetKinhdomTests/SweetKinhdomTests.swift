@@ -1,10 +1,3 @@
-//
-//  SweetKinhdomTests.swift
-//  SweetKinhdomTests
-//
-//  Created by Артём Коротков on 25.12.2025.
-//
-
 import XCTest
 @testable import SweetKinhdom
 
