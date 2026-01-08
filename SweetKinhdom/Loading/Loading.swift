@@ -98,7 +98,7 @@ struct LoadingView: View {
                 timer.invalidate()
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
                     withAnimation(.easeOut(duration: 0.5)) {
-//                        isLoadingComplete = true
+                        isLoadingComplete = true
                     }
                 }
             }
